@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "miniPT#4 Student Info/1.0.0": {
+        "runtime": {
+          "miniPT#4 Student Info.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "miniPT#4 Student Info/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\miniPT#4 Student Info\obj\Debug\netcoreapp3.1\miniPT#4 Student Info.csprojAssemblyReference.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\miniPT#4 Student Info\obj\Debug\netcoreapp3.1\miniPT#4 Student Info.AssemblyInfoInputs.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\miniPT#4 Student Info\obj\Debug\netcoreapp3.1\miniPT#4 Student Info.AssemblyInfo.cs
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\miniPT#4 Student Info\obj\Debug\netcoreapp3.1\miniPT#4 Student Info.csproj.CoreCompileInputs.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\miniPT#4 Student Info\bin\Debug\netcoreapp3.1\miniPT#4 Student Info.exe
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\miniPT#4 Student Info\bin\Debug\netcoreapp3.1\miniPT#4 Student Info.deps.json
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\miniPT#4 Student Info\bin\Debug\netcoreapp3.1\miniPT#4 Student Info.runtimeconfig.json
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\miniPT#4 Student Info\bin\Debug\netcoreapp3.1\miniPT#4 Student Info.runtimeconfig.dev.json
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\miniPT#4 Student Info\bin\Debug\netcoreapp3.1\miniPT#4 Student Info.dll
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\miniPT#4 Student Info\bin\Debug\netcoreapp3.1\miniPT#4 Student Info.pdb
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\miniPT#4 Student Info\obj\Debug\netcoreapp3.1\miniPT#4 Student Info.dll
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\miniPT#4 Student Info\obj\Debug\netcoreapp3.1\miniPT#4 Student Info.pdb
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\miniPT#4 Student Info\obj\Debug\netcoreapp3.1\miniPT#4 Student Info.genruntimeconfig.cache
